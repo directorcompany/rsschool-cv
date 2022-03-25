@@ -12,7 +12,6 @@ Email:
 
 About Me:
 
-
 In mainly I'm developing in Html, Css,Php,Javascript programming languages.
 
 ### Skills:
