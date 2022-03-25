@@ -1,4 +1,4 @@
-# Uzakbaev Axmet
+# Junior
 _____
 Junior FullStack Developer
 ******
