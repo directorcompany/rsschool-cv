@@ -23,7 +23,15 @@ ___________
 - Javascript
 - Laravel
 
-#### Languages:
+#### Code Example
+function sum(a, b) {
+  return a + b;
+}
+
+var output = sum(1, 2);
+alert(output);
+
+##### Languages:
 ______
 
 - Russian
