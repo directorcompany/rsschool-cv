@@ -1,23 +1,28 @@
 # Junior
-_____
+
 Junior FullStack Developer
+
 ******
-Contact Information:
+
+## Contact Information:
+
 Phone:  123456789
 Email: 
 About Me:
 _______
 In mainly I'm developing in Html, Css,Php,Javascript programming languages.
-Skills:
+
+### Skills:
 ___________
--Html
--Css
--Php
--Javascript
--Laravel
 
-Languages:
-__
+- Html
+- Css
+- Php
+- Javascript
+- Laravel
 
--Russian
--English
+#### Languages:
+______
+
+- Russian
+- English
