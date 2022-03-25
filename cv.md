@@ -23,7 +23,7 @@ ___________
 - Javascript
 - Laravel
 
-#### Code Example
+#### Javascript Example:
 function sum(a, b) {
   return a + b;
 }
