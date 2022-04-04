@@ -1,1 +1,2 @@
-https://directorcompany.github.io/rsschool-cv/cv
+rsschool-cv-html
+https://directorcompany.github.io/rsschool-cv
